@@ -1,0 +1,14 @@
+c:\users\v-jihead\source\repos\MathGrains\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+c:\users\v-jihead\source\repos\MathGrains\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+c:\users\v-jihead\source\repos\MathGrains\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+c:\users\v-jihead\source\repos\MathGrains\Client\bin\Debug\netcoreapp2.0\Client.dll
+c:\users\v-jihead\source\repos\MathGrains\Client\obj\Debug\netcoreapp2.0\Client.csprojAssemblyReference.cache
+c:\users\v-jihead\source\repos\MathGrains\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+c:\users\v-jihead\source\repos\MathGrains\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+c:\users\v-jihead\source\repos\MathGrains\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\v-jihead\source\repos\MathGrains\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\v-jihead\source\repos\MathGrains\Client\bin\Debug\netcoreapp2.0\GrainInterfaces.dll
+C:\Users\v-jihead\source\repos\MathGrains\Client\bin\Debug\netcoreapp2.0\GrainInterfaces.pdb
+C:\Users\v-jihead\source\repos\MathGrains\Client\obj\Debug\netcoreapp2.0\Client.csproj.CopyComplete
+C:\Users\v-jihead\source\repos\MathGrains\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\v-jihead\source\repos\MathGrains\Client\obj\Debug\netcoreapp2.0\Client.pdb

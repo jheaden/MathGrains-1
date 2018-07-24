@@ -1,0 +1,9 @@
+c:\users\v-jihead\source\repos\MathGrains\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.deps.json
+c:\users\v-jihead\source\repos\MathGrains\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.dll
+c:\users\v-jihead\source\repos\MathGrains\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.csprojAssemblyReference.cache
+c:\users\v-jihead\source\repos\MathGrains\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.csproj.CoreCompileInputs.cache
+c:\users\v-jihead\source\repos\MathGrains\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.AssemblyInfoInputs.cache
+c:\users\v-jihead\source\repos\MathGrains\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.AssemblyInfo.cs
+C:\Users\v-jihead\source\repos\MathGrains\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.pdb
+C:\Users\v-jihead\source\repos\MathGrains\GrainInterfaces\obj\Debug\netstandard2.0\codegen\GrainInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\v-jihead\source\repos\MathGrains\GrainInterfaces\obj\Debug\netstandard2.0\codegen\GrainInterfaces.AssemblyInfoInputs.cache

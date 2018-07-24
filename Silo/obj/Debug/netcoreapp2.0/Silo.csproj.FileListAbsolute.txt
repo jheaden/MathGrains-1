@@ -1,0 +1,16 @@
+c:\users\v-jihead\source\repos\MathGrains\Silo\bin\Debug\netcoreapp2.0\Silo.deps.json
+c:\users\v-jihead\source\repos\MathGrains\Silo\bin\Debug\netcoreapp2.0\Silo.runtimeconfig.json
+c:\users\v-jihead\source\repos\MathGrains\Silo\bin\Debug\netcoreapp2.0\Silo.runtimeconfig.dev.json
+c:\users\v-jihead\source\repos\MathGrains\Silo\bin\Debug\netcoreapp2.0\Silo.dll
+c:\users\v-jihead\source\repos\MathGrains\Silo\obj\Debug\netcoreapp2.0\Silo.csprojAssemblyReference.cache
+c:\users\v-jihead\source\repos\MathGrains\Silo\obj\Debug\netcoreapp2.0\Silo.csproj.CoreCompileInputs.cache
+c:\users\v-jihead\source\repos\MathGrains\Silo\obj\Debug\netcoreapp2.0\Silo.AssemblyInfoInputs.cache
+c:\users\v-jihead\source\repos\MathGrains\Silo\obj\Debug\netcoreapp2.0\Silo.AssemblyInfo.cs
+C:\Users\v-jihead\source\repos\MathGrains\Silo\bin\Debug\netcoreapp2.0\Silo.pdb
+C:\Users\v-jihead\source\repos\MathGrains\Silo\obj\Debug\netcoreapp2.0\Silo.dll
+C:\Users\v-jihead\source\repos\MathGrains\Silo\obj\Debug\netcoreapp2.0\Silo.pdb
+C:\Users\v-jihead\source\repos\MathGrains\Silo\bin\Debug\netcoreapp2.0\GrainInterfaces.dll
+C:\Users\v-jihead\source\repos\MathGrains\Silo\bin\Debug\netcoreapp2.0\Grains.dll
+C:\Users\v-jihead\source\repos\MathGrains\Silo\bin\Debug\netcoreapp2.0\GrainInterfaces.pdb
+C:\Users\v-jihead\source\repos\MathGrains\Silo\bin\Debug\netcoreapp2.0\Grains.pdb
+C:\Users\v-jihead\source\repos\MathGrains\Silo\obj\Debug\netcoreapp2.0\Silo.csproj.CopyComplete
