@@ -1,2 +1,2 @@
 # MathGrains
-Orleans calculator app that uses grains to do the math
+Calculator app that uses Orleans grains to do the arithmetic.
