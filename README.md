@@ -4,10 +4,10 @@ Calculator app that uses Orleans grains to do the arithmetic.
 # MathGrains Tutorial: Writing your first service using Orleans
 ## Conceptual Overview
 This Orleans project has four components:
-**Silo** – contains Grains and communicates Client instructions to the appropriate Grain.
-**Client** – sends requests to the Silo and receives results from the Grain
-**Grain Interface** – blueprint for the Grain that will be instantiated in the Silo
-**Grain** – performs a task and returns a result
+* **Silo** – contains Grains and communicates Client instructions to the appropriate Grain.
+* **Client** – sends requests to the Silo and receives results from the Grain
+* **Grain Interface** – blueprint for the Grain that will be instantiated in the Silo
+* **Grain** – performs a task and returns a result
 
 In this instance, we are going to use these components to create a Silo that will contain one Grain. The Client will send an integer to the Grain and the Grain will return the square of that integer. 
 
