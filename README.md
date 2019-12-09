@@ -64,8 +64,8 @@ Check the boxes for the projects you need and click OK.
 
 # Adding Code
 ## Silo – Program.cs
+This is the code that creates and starts a silo.
 ```csharp
-This is the code that creates and starts a silo. 
 using System;
 using System.Net;
 using System.Threading.Tasks;
